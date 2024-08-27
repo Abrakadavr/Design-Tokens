@@ -1,7 +1,39 @@
 {
-  "Spacer-xl": {
-    "value": "16",
-    "type": "spacing",
-    "description": "test token"
+  "btn1-clr-srf-def": {
+    "$type": "color",
+    "$value": "#2278E1"
+  },
+  "btn1-clr-srf-hvr": {
+    "$type": "color",
+    "$value": "#0960CA"
+  },
+  "btn1-clr-srf-dis": {
+    "$type": "color",
+    "$value": "#DBDDE3"
+  },
+  "btn1-clr-txt": {
+    "$type": "color",
+    "$value": "#FFFFFF"
+  },
+  "btn1-style-txt": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "Inter",
+      "fontWeight": "600",
+      "fontSize": "14",
+      "lineHeight": "20"
+    }
+  },
+  "btn1-rad": {
+    "$type": "borderRadius",
+    "$value": "6"
+  },
+  "alias test": {
+    "$type": "color",
+    "$value": "{test}"
+  },
+  "test": {
+    "$type": "color",
+    "$value": "#f00"
   }
 }
