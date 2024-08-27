@@ -15,7 +15,7 @@
     "$type": "color",
     "$value": "#FFFFFF"
   },
-  "btn1-style-txt": {
+  "textStyle-buttonLabelRegular": {
     "$type": "typography",
     "$value": {
       "fontFamily": "Inter",
@@ -24,7 +24,7 @@
       "lineHeight": "20"
     }
   },
-  "btn1-rad": {
+  "borderRadius_button-primary": {
     "$type": "borderRadius",
     "$value": "6"
   },
@@ -35,5 +35,9 @@
   "test": {
     "$type": "color",
     "$value": "#f00"
+  },
+  "buttonPrimary_labelStyle": {
+    "$type": "typography",
+    "$value": "{textStyle-buttonLabelRegular}"
   }
 }
