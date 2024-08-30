@@ -4,13 +4,21 @@
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "enabled"
+      "Global/Light": "disabled",
+      "Global/Dark": "disabled",
+      "Alias/Light": "disabled",
+      "Alias/Dark": "disabled"
     }
   },
   {
     "id": "5b5a0ec999a0d70c853a0772b134cf629cb5e158",
     "name": "Dark",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {}
+    "selectedTokenSets": {
+      "Global/Light": "disabled",
+      "Global/Dark": "disabled",
+      "Alias/Light": "disabled",
+      "Alias/Dark": "disabled"
+    }
   }
 ]

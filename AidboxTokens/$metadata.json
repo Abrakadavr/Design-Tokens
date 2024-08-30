@@ -1,5 +1,8 @@
 {
   "tokenSetOrder": [
-    "global"
+    "Global/Dark",
+    "Global/Light",
+    "Alias/Dark",
+    "Alias/Light"
   ]
 }
